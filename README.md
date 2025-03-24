@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm currently an undergraduate at Peking University, China, majoring in physics and minoring in Artificial Intelligence. 
 <!--
 **smilezzm/smilezzm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
