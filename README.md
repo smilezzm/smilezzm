@@ -2,6 +2,7 @@
 
 I'm an undergraduate of Class 2027 at Peking University, China, majoring in physics and minoring in Artificial Intelligence. 
 In 2025Fall, I became an exchange student to Rice University, where I enjoyed a great time with friends and teachers from Rice.
+
 From 2024, I've been working on condensed matter experiments. And starting from 2026, I'm focusing on research about condensed matter theory.
 
 <!--
